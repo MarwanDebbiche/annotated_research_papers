@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c1e4bfef16d5bd505c58edf40c0728a5",
+    "revision": "96b95f23f76d3acd618f5810adeb917e",
     "url": "/annotated_research_papers/index.html"
   },
   {
-    "revision": "23e78078a557eb757170",
+    "revision": "9807ec110ab4e8678f94",
     "url": "/annotated_research_papers/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/annotated_research_papers/static/js/2.d882fa93.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "23e78078a557eb757170",
-    "url": "/annotated_research_papers/static/js/main.6af62d05.chunk.js"
+    "revision": "9807ec110ab4e8678f94",
+    "url": "/annotated_research_papers/static/js/main.709b22a4.chunk.js"
   },
   {
     "revision": "028a4c7693c7c28c9fbc",
