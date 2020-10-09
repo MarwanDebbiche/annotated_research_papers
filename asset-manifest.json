@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/annotated_research_papers/static/css/main.5f361e03.chunk.css",
-    "main.js": "/annotated_research_papers/static/js/main.15f9533d.chunk.js",
-    "main.js.map": "/annotated_research_papers/static/js/main.15f9533d.chunk.js.map",
+    "main.js": "/annotated_research_papers/static/js/main.c12b1b90.chunk.js",
+    "main.js.map": "/annotated_research_papers/static/js/main.c12b1b90.chunk.js.map",
     "runtime-main.js": "/annotated_research_papers/static/js/runtime-main.fd840a46.js",
     "runtime-main.js.map": "/annotated_research_papers/static/js/runtime-main.fd840a46.js.map",
     "static/js/2.d882fa93.chunk.js": "/annotated_research_papers/static/js/2.d882fa93.chunk.js",
     "static/js/2.d882fa93.chunk.js.map": "/annotated_research_papers/static/js/2.d882fa93.chunk.js.map",
     "index.html": "/annotated_research_papers/index.html",
-    "precache-manifest.071b807f40546c3d6aabede9267585a8.js": "/annotated_research_papers/precache-manifest.071b807f40546c3d6aabede9267585a8.js",
+    "precache-manifest.2f5947f7febecaba21a015d0de8f3c0a.js": "/annotated_research_papers/precache-manifest.2f5947f7febecaba21a015d0de8f3c0a.js",
     "service-worker.js": "/annotated_research_papers/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/annotated_research_papers/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.d882fa93.chunk.js.LICENSE.txt": "/annotated_research_papers/static/js/2.d882fa93.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.fd840a46.js",
     "static/js/2.d882fa93.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.15f9533d.chunk.js"
+    "static/js/main.c12b1b90.chunk.js"
   ]
 }
